@@ -4,7 +4,12 @@
 
 This project performs a strategic segmentation of a supermarket's customer base to identify key personas and uncover actionable insights for targeted marketing. Using a dataset of over 2,200 customers, this analysis moves beyond simple metrics to create a robust segmentation model based on both demographic data (Income) and behavioral data (Recency, Frequency, Monetary).
 
-The final output is a strategic playbook and a mock-up for an interactive Tableau dashboard designed to help the marketing team make data-driven decisions to increase customer retention and lifetime value.
+The final output is a strategic playbook and an interactive Tableau dashboard designed to help the marketing team make data-driven decisions to increase customer retention and lifetime value.
+
+## Final Deliverables & Visualizations
+
+*   **Presentation Deck:** [View the Google Slides Presentation](https://docs.google.com/presentation/d/1G1y7gendzVMJcNiTuZiaF_3VbYUCGLTAA627EioWsG4/edit?usp=sharing)
+*   **Interactive Tableau Dashboard:** [Explore the Dashboard on Tableau Public](https://public.tableau.com/app/profile/arief.widagdo/viz/SupermarketMatrixDashboard/FinalDashboard?publish=yes)
 
 ## Key Questions Answered
 
@@ -52,7 +57,7 @@ The analysis follows a standard data science workflow:
     *   Analyzed **Spending Composition**, **Channel Preference**, and **Campaign Acceptance Rates** for each segment.
     *   Calculated **Customer Lifetime Value (CLV)** and ran simulations to quantify the financial impact of proposed marketing strategies.
     *   Used **Linear Regression** to confirm the primary drivers of customer spending.
-5.  **Dashboarding:** Designed a mock-up for a four-part interactive Tableau dashboard to allow for dynamic exploration of the segments.
+5.  **Dashboarding:** Designed and built an interactive Tableau dashboard to allow for dynamic exploration of the segments.
 
 ### How to Run
 
